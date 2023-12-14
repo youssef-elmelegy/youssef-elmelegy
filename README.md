@@ -2,6 +2,8 @@
 <h1 align="center">"hello, in youssef's world!"</h1>
 
 <h3 align="center">A Telecommunication engineering student💻</h3>
+
+
 <img align="right" alt="Coding" width="1000" src="https://raw.githubusercontent.com/robiot/robiot/main/jump.gif">
 
 
@@ -18,6 +20,8 @@
 - 💬 Ask me about **anything tech related, I am happy to search with you.**
 
 - 📫 How to reach me **youssefelmelegy999@gmail.com**
+<img align="right" alt="Coding" width="400" src="https://gifdb.com/images/high/coding-animated-laptop-flow-stream-ja04010rm5o68zfk.gif">
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
