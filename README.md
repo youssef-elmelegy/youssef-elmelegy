@@ -2,9 +2,9 @@
 <h1 align="center">"hello, in youssef's world!"</h1>
 
 <h3 align="center">A Telecommunication engineering student💻</h3>
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/robiot/robiot/main/jump.gif">
+<img align="right" alt="Coding" width="1000" src="https://raw.githubusercontent.com/robiot/robiot/main/jump.gif">
 
-img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/robiot/robiot/main/jump.gif"
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=youssef-elmelegy&label=Profile%20views&color=0e75b6&style=flat" alt="youssef-elmelegy" /> </p>
 
 <p align="left"> <a href="https://twitter.com/youssefelmeleg9" target="blank"><img src="https://img.shields.io/twitter/follow/youssefelmeleg9?logo=twitter&style=for-the-badge" alt="youssefelmeleg9" /></a> </p>
