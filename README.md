@@ -20,7 +20,7 @@
 - 💬 Ask me about **anything tech related, I am happy to search with you.**
 
 - 📫 How to reach me **youssefelmelegy999@gmail.com**
-<img align="right" alt="Coding" width="400" src="https://gifdb.com/images/high/coding-animated-laptop-flow-stream-ja04010rm5o68zfk.gif">
+<img align="right" alt="Coding" width="300" src="https://gifdb.com/images/high/coding-animated-laptop-flow-stream-ja04010rm5o68zfk.gif">
 
 
 <h3 align="left">Connect with me:</h3>
