@@ -14,7 +14,7 @@
 
 - I’m currently working on **Collect as much info as possible about your tech**
 
-- I’m currently working **as express backend engineer**
+- I’m currently working **as NestJs backend engineer**
 
 - Ask me about **anything tech related, I am happy to search with you.**
 
